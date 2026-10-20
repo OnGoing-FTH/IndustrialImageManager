@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+release/
+playwright-report/
+test-results/
+screenshot.png
+.dev-server.log
+.env*
+data/
+设计方案.md
